@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-07 10:20+0200\n"
 "PO-Revision-Date: 2017-10-05 14:20+0300\n"
-"Last-Translator: kvinto <adsystem@ukr.net>\n"
+"Last-Translator: kvinto <badsystem@ukr.net>\n"
 "Language-Team: <bodyan&kvinto  sat-ukraine.info>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -3202,6 +3202,12 @@ msgstr "Режим збереження"
 
 msgid "Backup Settings"
 msgstr "Створення резервної копії"
+
+msgid "Backup, flash and restore settings and no plugins"
+msgstr "Резервне копіювання, прошивка та відновлення без плагінів"
+
+msgid "Backup, flash and restore settings and selected plugins (ask user)"
+msgstr "Резервне копіювання, прошивка та відновлення налаштувань плагінів (запитати користувача)"
 
 msgid "Backup completed."
 msgstr "Бекап успішно створений."
@@ -7117,18 +7123,6 @@ msgstr "Прошити приймач з інтернету"
 msgid "Flash Online a new image"
 msgstr "Прошити приймач новим іміджем"
 
-msgid "Flash and restore settings and all saved plugins"
-msgstr "Прошити і відновити налаштування і всі збережені плагіни"
-
-msgid "Flash and restore settings and no plugins"
-msgstr "Прошити і відновити настройки, але без плагінів"
-
-msgid "Flash and restore settings and selected plugins (ask user)"
-msgstr "Прошити і відновити налаштування і вибрані додатки  (запитати користувача)"
-
-msgid "Flash and start installation wizard"
-msgstr "Прошити і відкрити майстер установки"
-
 msgid "Flash on the fly your your Receiver software."
 msgstr "Прошити Ваш приймач з інтернету або Вашим ПЗ."
 
@@ -7137,13 +7131,13 @@ msgstr "Блимаюча іконка"
 
 #, fuzzy
 msgid "Flashing Image"
-msgstr "Запис ПЗ невдалий"
+msgstr "Запис Іміджу"
 
 msgid "Flashing failed"
-msgstr "Запис ПЗ невдалий"
+msgstr "Запис іміджу невдалий"
 
 msgid "Flashing image successful"
-msgstr ""
+msgstr "Запис іміджу вдалий"
 
 #, python-format
 msgid ""
@@ -14419,7 +14413,7 @@ msgid "Show the Sleep Timer..."
 msgstr "Показати Таймер сну..."
 
 #, fuzzy
-msgid "Show the infomation on current event."
+msgid "Show the information on current event."
 msgstr "Показати інформацію про поточний подію."
 
 msgid "Show the list of AutoTimers."
@@ -17191,6 +17185,9 @@ msgstr "Оновлення параметрів підключення."
 
 msgid "Updating software catalog"
 msgstr "Каталог оновлення ПЗ"
+
+msgid "Upgrade (Backup, Flash & Restore All)"
+msgstr "Оновлення (Бекап, прошивка і відновлення всього)"
 
 msgid "Upgrade and reboot system"
 msgstr "Оновлення і перезавантаження системи"
