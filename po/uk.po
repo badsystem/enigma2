@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-07 10:20+0200\n"
 "PO-Revision-Date: 2017-10-05 14:20+0300\n"
-"Last-Translator: kvinto <adsystem@ukr.net>\n"
+"Last-Translator: kvinto <badsystem@ukr.net>\n"
 "Language-Team: <bodyan&kvinto  sat-ukraine.info>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -6998,14 +6998,14 @@ msgstr ""
 
 #, fuzzy
 msgid "File Commander Settings"
-msgstr "Налаштування відео"
+msgstr "File Commander Налаштування"
 
 #, fuzzy
 msgid "File Commander context menu"
-msgstr "Меню списку каналів"
+msgstr "Контекстне меню File Commander"
 
 msgid "File Commander menu"
-msgstr ""
+msgstr "Меню File Commander"
 
 msgid "File appears to be busy.\n"
 msgstr "Файл зайнятий.\n"
@@ -7116,15 +7116,6 @@ msgstr "Прошити приймач з інтернету"
 
 msgid "Flash Online a new image"
 msgstr "Прошити приймач новим іміджем"
-
-msgid "Flash and restore settings and all saved plugins"
-msgstr "Прошити і відновити налаштування і всі збережені плагіни"
-
-msgid "Flash and restore settings and no plugins"
-msgstr "Прошити і відновити настройки, але без плагінів"
-
-msgid "Flash and restore settings and selected plugins (ask user)"
-msgstr "Прошити і відновити налаштування і вибрані додатки  (запитати користувача)"
 
 msgid "Flash and start installation wizard"
 msgstr "Прошити і відкрити майстер установки"
