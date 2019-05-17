@@ -219,7 +219,7 @@ msgid "     wrong back-up destination "
 msgstr "     неправильне місце призначення"
 
 msgid "  Menu key : Select quad channel"
-msgstr ""
+msgstr "  Кнопка 'Menu' : Вибір чотирьохканальної доріжки"
 
 msgid "  Red key : Show/Hide channel name"
 msgstr ""
