@@ -8291,9 +8291,9 @@ msgstr "Встановити списки каналів, скіни, ПЗ..."
 msgid "Installation finished."
 msgstr "Встановлення завершено."
 
-#, fuzzy, python-format
+#, python-format
 msgid "Installed:\t\t%s"
-msgstr "Встановлено:\t\t%s"
+msgstr "Встановлено: \t\t%s"
 
 msgid "Installing"
 msgstr "Встановлення"
@@ -8304,11 +8304,11 @@ msgstr "Встановлення Плагіну..."
 msgid "Installing Service"
 msgstr "Встановлення каналів"
 
+msgid "Installing Software..."
+msgstr "Встановлення ПЗ..."
+
 msgid "Installing plugins..."
 msgstr "Встановлення плагінів..."
-
-msgid "Installing software..."
-msgstr "Встановлення пз..."
 
 msgid "Instant record"
 msgstr "Негайний запис"
@@ -8405,7 +8405,7 @@ msgstr "Встановити даний відеорежим?"
 
 #, fuzzy
 msgid "Isle of Man"
-msgstr "Острів Мен"
+msgstr ""
 
 msgid "Israel"
 msgstr "Ізраїль"
@@ -8566,7 +8566,7 @@ msgstr "Корея (Республіка)"
 
 #, fuzzy
 msgid "Kuwait"
-msgstr "Кувейт"
+msgstr ""
 
 msgid "Kyrgyzstan"
 msgstr "Киргистан"
@@ -8674,7 +8674,7 @@ msgstr "Широта"
 
 #, fuzzy
 msgid "Latvia"
-msgstr "Латвія"
+msgstr ""
 
 msgid "Latvian"
 msgstr "Латвійська"
@@ -8804,7 +8804,7 @@ msgstr "Список/Фаворити"
 
 #, fuzzy
 msgid "List/Fav long"
-msgstr "Список/Фаворити довге натискання"
+msgstr "Список/Фав довге натискання"
 
 msgid "Listen to the radio..."
 msgstr "Слухати радіо..."
@@ -8859,11 +8859,10 @@ msgid "Lock ratio"
 msgstr "Блокування Співвідношення"
 
 msgid "Lock:"
-msgstr "Захоплення:"
+msgstr "З’єднання:"
 
-#, fuzzy
 msgid "Log"
-msgstr "Лог"
+msgstr "Журнал крешів"
 
 msgid "Log Manager"
 msgstr "Управління логами"
