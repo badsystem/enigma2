@@ -248,7 +248,7 @@ msgstr ""
 #: Timershift.py:43 qpip.py:667 qpip.py:668 qpip.py:669 qpip.py:670
 #: ImageBackup.py:51
 msgid " "
-msgstr ""
+msgstr " "
 
 #: ImageBackup.py:621
 msgid "     no space left on back-up device"
@@ -327,11 +327,11 @@ msgstr " (вище будь-якого авто)"
 
 #: NimManager.py:1802
 msgid " (higher than rotor any auto)"
-msgstr " (вище будь-якого двигуна авто)"
+msgstr " (вище будь-якого ротора авто)"
 
 #: NimManager.py:1800
 msgid " (lower than any auto)"
-msgstr " (нище будь-якого авто)"
+msgstr " (нижче будь-якого авто)"
 
 #: FileCommander/plugin.py:1333 FileCommander/plugin.py:1376
 #, python-format
@@ -2762,7 +2762,7 @@ msgid ""
 "What do you want to do?"
 msgstr ""
 "Триває запис.\n"
-"Що хочете зробити?"
+"Що Ви хочете зробити?"
 
 #: QuickMenu.py:602 PositionerSetup/plugin.py:1342
 msgid "A recording is currently running. Please stop the recording before trying to configure the positioner."
@@ -3117,7 +3117,7 @@ msgstr "Додати маркер"
 
 #: NetworkSetup.py:279
 msgid "Add a nameserver entry"
-msgstr "Додати запис DNS"
+msgstr "Додати назву DNS сервера"
 
 #: TitleList.py:66 TitleList.py:178
 msgid "Add a new title"
@@ -5396,7 +5396,7 @@ msgstr "Канал \t\t\tЗвук +"
 # normalised
 #: setup.xml
 msgid "Channel +/-"
-msgstr ""
+msgstr "Канал +/-"
 
 #: setup.xml
 msgid "Channel +/- button mode"
@@ -5414,7 +5414,7 @@ msgstr "Канал 1 з Прайм-тайму"
 #: UsageConfig.py:1513 UsageConfig.py:1514 UsageConfig.py:1515
 #: ButtonSetup.py:245
 msgid "Channel Info"
-msgstr "Інформація каналу"
+msgstr "Інформація про канал"
 
 #: UsageConfig.py:459 UsageConfig.py:464 UsageConfig.py:469 UsageConfig.py:473
 #: UsageConfig.py:482
@@ -5606,7 +5606,7 @@ msgstr "Дитяча"
 
 #: Converter/genre.py:16 Converter/genre.py:226 Converter/genre.py:399
 msgid "Children/Youth"
-msgstr "Діти/Юнаки"
+msgstr "Діти/Молодь"
 
 #: Converter/genre.py:148
 msgid "Childrens"
@@ -5887,7 +5887,7 @@ msgstr "Закрити"
 
 #: setup.xml
 msgid "Close PiP on exit"
-msgstr "Закрити ПІП на виході"
+msgstr "Закрити ПІП кнопкою 'exit'"
 
 #: EpgSelection.py:295 EpgSelection.py:471
 msgid "Close bouquet list."
@@ -5899,7 +5899,7 @@ msgstr "Закрити діалог"
 
 #: TitleList.py:176
 msgid "Close title selection"
-msgstr "Закрити вибір назв"
+msgstr "Закрити вибір назви"
 
 #: CountryCodes.py:49
 msgid "Cocos (Keeling) Islands"
@@ -5927,11 +5927,11 @@ msgstr "Згорнути"
 
 #: ProjectSettings.py:146
 msgid "Collection name"
-msgstr "Назва проекту"
+msgstr "Назва колекції"
 
 #: ProjectSettings.py:135 TitleList.py:69
 msgid "Collection settings"
-msgstr "Налаштування проекту"
+msgstr "Налаштування колекції"
 
 #: CountryCodes.py:50
 msgid "Colombia"
@@ -5951,7 +5951,7 @@ msgstr "Колірний простір"
 
 #: ScanSetup.py:1184 Transponder.py:122 PositionerSetup/plugin.py:1188
 msgid "Combo"
-msgstr "Комбінований"
+msgstr "Комбо"
 
 #: Converter/genre.py:155 Converter/genre.py:233 Converter/genre.py:264
 #: Converter/genre.py:368 Converter/genre.py:406 Converter/genre.py:438
@@ -6687,23 +6687,23 @@ msgstr "Приготування їжі"
 
 #: InfoBarGenerics.py:1016
 msgid "Cool Channel Guide"
-msgstr ""
+msgstr "Cool - Переглядач каналів"
 
 #: InfoBarGenerics.py:1005
 msgid "Cool Easy Guide"
-msgstr ""
+msgstr "Cool - Простий переглядач"
 
 #: InfoBarGenerics.py:972 InfoBarGenerics.py:2135
 msgid "Cool Info Guide"
-msgstr ""
+msgstr "Cool - Інформація про переглядач"
 
 #: InfoBarGenerics.py:983 InfoBarGenerics.py:2146
 msgid "Cool Single Guide"
-msgstr ""
+msgstr "Cool - Єдиний гід"
 
 #: InfoBarGenerics.py:994 InfoBarGenerics.py:2075
 msgid "Cool TV Guide"
-msgstr ""
+msgstr "Cool - ТВ гід"
 
 #: MovieSelection.py:387 MovieSelection.py:392 MovieSelection.py:677
 #: FileCommander/plugin.py:257 FileCommander/plugin.py:1173
@@ -7693,12 +7693,12 @@ msgstr "Видалити збережений список відтворенн�
 # normalised
 #: VirtualKeyBoard.py:507
 msgid "Delete the character to the left of text cursor"
-msgstr ""
+msgstr "Видалити символ ліворуч від текстового курсору"
 
 # normalised
 #: VirtualKeyBoard.py:508
 msgid "Delete the character under the text cursor"
-msgstr ""
+msgstr "Видалити символ під текстовим курсором"
 
 #: Timeshift.py:907
 msgid "Delete the current timeshift buffer and restart timeshift"
@@ -8030,7 +8030,7 @@ msgstr "Джібутті"
 
 #: ChannelSelection.py:219
 msgid "Do center DVB subs on this service"
-msgstr "Центрувати DVB subs на цьому каналі"
+msgstr "Не центрувати DVB субтитри на цьому каналі"
 
 #: ChannelSelection.py:217
 msgid "Do not center DVB subs on this service"
@@ -8106,7 +8106,7 @@ msgstr ""
 
 #: MovieSelection.py:1890
 msgid "Do you really want to move to trashcan ?"
-msgstr "Дійсно хочете видалити у кошик?"
+msgstr "Ви дійсно хочете видалити у кошик?"
 
 #: MovieSelection.py:1985
 #, python-format
@@ -8115,7 +8115,7 @@ msgstr "Ви дійсно бажаєте остаточно видалити '%s
 
 #: MovieSelection.py:1917
 msgid "Do you really want to permanently remove from trash can ?"
-msgstr "Дійсно хочете остаточно видалити з кошика?"
+msgstr "Ви дійсно хочете остаточно видалити з кошика?"
 
 #: LocationBox.py:256
 #, python-format
@@ -8192,25 +8192,25 @@ msgid ""
 "Do you want to delete all selected files:\n"
 "(choose 'No' to only delete the currently selected file.)"
 msgstr ""
-"Хочете видалити всі вибрані файли:\n"
+"Бажаєте видалити всі вибрані файли:\n"
 "(Виберіть 'Ні', якщо хочете видалити тільки вибраний файл.)"
 
 #: BackupRestore.py:425
 msgid "Do you want to delete the old settings in /etc/enigma2 first?"
-msgstr "Хочете спочатку видалити старі налаштування з /etc/enigma2?"
+msgstr "Бажаєте спочатку видалити старі налаштування з /etc/enigma2?"
 
 #: startwizard.xml
 msgid "Do you want to do a service scan?"
-msgstr "Хочете виконати пошук каналів?"
+msgstr "Бажаєте виконати пошук каналів?"
 
 #: startwizard.xml
 msgid "Do you want to do another manual service scan?"
-msgstr "Хочете виконати ще один ручний пошук каналів?"
+msgstr "Бажаєте виконати ще один ручний пошук каналів?"
 
 #: downloader.py:564
 #, python-format
 msgid "Do you want to download the image to %s ?"
-msgstr "Хочете виконати завантаження іміджу до %s ?"
+msgstr "Бажаєте виконати завантаження іміджу до %s ?"
 
 #: Flash_online.py:226
 #, python-format
@@ -8218,7 +8218,7 @@ msgid ""
 "Do you want to flash image\n"
 "%s"
 msgstr ""
-"Хочете прошити імідж\n"
+"Бажаєте прошити імідж\n"
 "%s"
 
 #: startwizard.xml
@@ -8232,11 +8232,11 @@ msgstr "Бажаєте встановити пакет:\n"
 
 #: DVD.py:527
 msgid "Do you want to play DVD in drive?"
-msgstr "Ви хочете відтворити DVD, який є в приводі?"
+msgstr "Ви бажаєте відтворити DVD, який є в приводі?"
 
 #: Process.py:422
 msgid "Do you want to preview this DVD before burning?"
-msgstr "Ви хочете переглянути цей DVD перед записом?"
+msgstr "Ви бажаєте переглянути цей DVD перед записом?"
 
 #: TitleList.py:243
 msgid "Do you want to produce this collection?"
